@@ -1,0 +1,15 @@
+h1{
+    background-color: palegreen;
+    color: transparent;
+    -webkit-text-stroke: 2px black;
+    letter-spacing: 3px;
+}
+
+canvas{
+    border-radius: 5%;
+    box-shadow: 10px 10px 60px gray;
+}
+
+video{
+    margin-left: 50px;
+}
